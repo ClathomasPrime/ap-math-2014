@@ -14,5 +14,5 @@ A blender file used to get the perspective correct in future models. Contains la
 monster one.svg
 The first t-shirt designed vector file. Not very detailed. Best run in inkscape.
 
-preview.png
+preview one.png
 A screenshot from "monster one.svg"
